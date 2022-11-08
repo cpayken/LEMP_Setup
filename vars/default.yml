@@ -1,0 +1,6 @@
+
+---
+mysql_root_password: "Mattis!11"
+http_host: "192.168.0.179"
+http_conf: "paykensolutions.conf"
+http_port: "80"
